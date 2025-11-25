@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/EngineDeveloper/">
+    <Project Path="EngineDeveloper/Raga_Core/Raga_Core.vcxproj" />
+  </Folder>
+  <Folder Name="/EngineDeveloper/Libs/">
+    <Project Path="EngineDeveloper/Libs/Graphics.Win/Graphics.Win.vcxproj" />
+  </Folder>
+  <Folder Name="/GameDeveloper/">
+    <Project Path="GameDeveloper/PointWarfare_Game/PointWarfare_Game.vcxproj" />
+  </Folder>
+</Solution>
